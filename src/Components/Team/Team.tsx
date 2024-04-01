@@ -76,10 +76,10 @@ const Team = () => {
                         </div>
                         <div className={styles.teamNameDesignation}>
                             <div className={styles.teamMemberName}>
-                                {data.team.treasurer.name}
+                                {data.team.creativeLead.name}
                             </div>
                             <div className={styles.teamMemberDesignation}>
-                                Treasurer
+                                Creative Lead
                             </div>
                         </div>
                     </div>
@@ -138,16 +138,16 @@ const Team = () => {
                         <div className={styles.team1Img}>
                             <img
                                 className={styles.teamImageIndividual}
-                                src={data.team.operationLead.image}
+                                src={data.team.designLead.image}
                                 loading="lazy"
                             />
                         </div>
                         <div className={styles.teamNameDesignation}>
                             <div className={styles.teamMemberName}>
-                                {data.team.operationLead.name}
+                                {data.team.designLead.name}
                             </div>
                             <div className={styles.teamMemberDesignation}>
-                                Operation Lead
+                                Design Lead
                             </div>
                         </div>
                     </div>
