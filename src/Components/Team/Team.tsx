@@ -70,7 +70,7 @@ const Team = () => {
                         <div className={styles.team1Img}>
                             <img
                                 className={styles.teamImageIndividual}
-                                src={data.team.treasurer.image}
+                                src={data.team.creativeLead.image}
                                 loading="lazy"
                             />
                         </div>
