@@ -69,7 +69,7 @@
         "studentsCount": 567,
         "learningCircles": 10,
         "InterestGroups": 3,
-        "karmaEarned": 325.26K,
+        "karmaEarned": 325.26,
         "rank": 8
     },
 
@@ -86,8 +86,8 @@
             "name": "Edwin Alex Shaji",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkpjOGK60eq0Dg2h7vs2ulNfLmpR5vf6qM9RzSnFwmnOH1koI-Wdv87yuf7DBjFyQFHI&usqp=CAU"
         },
-	 "treasurer": {
-            "name": "",
+	 "creativeLead": {
+            "name": "Nihal Muhammed Riyaz",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
 	
@@ -104,9 +104,9 @@
             "name": "Stephy Sam",
             "image": "https://media.licdn.com/dms/image/D5603AQElZ6JLu_kOGg/profile-displayphoto-shrink_400_400/0/1694855800988?e=1717632000&v=beta&t=V6f0mdKxgCO-YVHsGWJmX1cu_4D0HIGSh82y5tiB_ks"
         },
-        "operationLead": {
-            "name": "Nanma Maryam Soence",
-            "image": "https://media.licdn.com/dms/image/D5603AQGoFDi1oHdAWA/profile-displayphoto-shrink_100_100/0/1708916076994?e=1717632000&v=beta&t=TfSqcJ_F310sZJLT_I5-zVU23CkWKJnjX4EgIJrPEWQ"
+        "designLead": {
+            "name": "P Aparna",
+            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         }
     },
 
