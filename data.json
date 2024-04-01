@@ -66,16 +66,16 @@
     },
 
     "statistics": {
-        "studentsCount": 30,
+        "studentsCount": 567,
         "learningCircles": 10,
-        "InterestGroups": 5,
-        "karmaEarned": 60,
-        "rank": 28
+        "InterestGroups": 3,
+        "karmaEarned": 325.26,
+        "rank": 8
     },
 
     "team": {
         "staffAdvisor": {
-            "name": "Enric S Neelamkavil",
+            "name": "Ahammed Siraj",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
         "campusLead": {
@@ -112,11 +112,11 @@
 
     "discordLink": "",
 
-    "whatsAppLink": "",
+    "whatsAppLink": "https://chat.whatsapp.com/LoYOB03eanl8oExMaD6l8q",
 
     "email": "mulearn@cce.edu.in",
 
-    "linkedIn": "",
+    "linkedIn": "https://www.linkedin.com/in/gtech-mulearn-cec",
 
     "instagram": "",
 
